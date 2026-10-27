@@ -1,0 +1,81 @@
+{
+    "Vitamin A Deficiency (Retinol)": {
+        "precision": 0.8333333333333334,
+        "recall": 0.7142857142857143,
+        "f1-score": 0.7692307692307693,
+        "support": 7.0
+    },
+    "Vitamin B Complex Deficiency (General)": {
+        "precision": 0.5,
+        "recall": 0.1,
+        "f1-score": 0.16666666666666666,
+        "support": 10.0
+    },
+    "Vitamin B-12 Deficiency (Cobalamin)": {
+        "precision": 0.2857142857142857,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.4,
+        "support": 6.0
+    },
+    "Vitamin B2 Deficiency (Riboflavin)": {
+        "precision": 0.75,
+        "recall": 1.0,
+        "f1-score": 0.8571428571428571,
+        "support": 9.0
+    },
+    "Vitamin B3 Deficiency (Niacin / Pellagra)": {
+        "precision": 0.5,
+        "recall": 0.14285714285714285,
+        "f1-score": 0.2222222222222222,
+        "support": 7.0
+    },
+    "Vitamin B9 Deficiency (Folate / Folic Acid)": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 6.0
+    },
+    "Vitamin C Deficiency (Ascorbic Acid / Scurvy)": {
+        "precision": 0.875,
+        "recall": 1.0,
+        "f1-score": 0.9333333333333333,
+        "support": 7.0
+    },
+    "Vitamin D Deficiency (Calciferol / Rickets)": {
+        "precision": 0.5714285714285714,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6153846153846154,
+        "support": 6.0
+    },
+    "Vitamin E Deficiency (Tocopherol)": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 5.0
+    },
+    "Vitamin K Deficiency (Phylloquinone)": {
+        "precision": 0.8,
+        "recall": 1.0,
+        "f1-score": 0.8888888888888888,
+        "support": 8.0
+    },
+    "Trace Mineral / Protein Deficiency (Zinc, Iron, Biotin)": {
+        "precision": 0.8461538461538461,
+        "recall": 1.0,
+        "f1-score": 0.9166666666666666,
+        "support": 11.0
+    },
+    "accuracy": 0.6707317073170732,
+    "macro avg": {
+        "precision": 0.6328754578754578,
+        "recall": 0.6627705627705628,
+        "f1-score": 0.6154123654123654,
+        "support": 82.0
+    },
+    "weighted avg": {
+        "precision": 0.6470595461449119,
+        "recall": 0.6707317073170732,
+        "f1-score": 0.6236732779415706,
+        "support": 82.0
+    }
+}
